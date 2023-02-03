@@ -26,3 +26,16 @@ C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\refint\Cat
 C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.pdb
 C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.genruntimeconfig.cache
 C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\obj\Debug\net5.0\ref\Catalog.Api.dll
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\Snappier.dll
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\Jacek\dev2\src\Services\Catalog\Catalog.Api\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
